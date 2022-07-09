@@ -1,0 +1,33 @@
+body {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: aliceblue;
+}
+
+#Opponenet-Choice {
+  height: 210px;
+  width: 210px;
+  margin-top: 5px;
+  /* background-color: black; */
+}
+
+#Your-Choice {
+  height: 210px;
+  width: 210px;
+  margin-top: 5px;
+  /* background-color: black; */
+}
+
+#Choices {
+  height: 70px;
+  width: 210px;
+  /* background-color: blue; */
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#Choices img {
+  height: 70px;
+  width: 70px;
+}
